@@ -30,6 +30,7 @@ main {
 nav {
     background-color: beige;
     padding: 10px;
+    width:100%
 }
 
 nav ul {
@@ -83,4 +84,20 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+.highlight {
+    color:purple
+}
+
+footer{
+    width: 100%;
+    padding: 15px;
+    background-color: green;
+}
+
+#holiday{
+    width: 100%;
+    padding: 15px;
+    background-color:honeydew;
 }
